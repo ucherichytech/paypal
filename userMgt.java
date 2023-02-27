@@ -1,5 +1,5 @@
 landmark
-ucherichy
+ugochi
 eleshi72
 simon
 mimi
@@ -7,5 +7,5 @@ Obi
 Datti
 mujaheed
 okechukwu
-titi
+chioma
 wivina
