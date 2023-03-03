@@ -5,3 +5,4 @@ deployment
 NodeJS application
 python application
 web application
+bug removed
